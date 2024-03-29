@@ -1,0 +1,3 @@
+[submodule "apuntes.md"]
+	path = content
+	url = git@github.com:JulianGCalderon-FIUBA/apuntes.md.git
